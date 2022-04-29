@@ -1,2 +1,2 @@
-# Projects
-Recent projects that helped me grow my skills in business analytics
+# Analytics Projects
+## Recent analytics projects that helped me polish and grow my skills
