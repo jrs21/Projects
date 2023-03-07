@@ -1,4 +1,4 @@
-## Performed the following tasks
+## Performed the following tasks:
 
 * Designed a star schema for Dillards department store
 * Implemented the design into a MySQL Database
